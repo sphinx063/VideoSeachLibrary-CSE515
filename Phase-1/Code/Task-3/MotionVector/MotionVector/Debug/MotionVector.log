@@ -1,0 +1,19 @@
+﻿  MotionVector.cpp
+c:\users\mlenka\downloads\ffmpeg\dev\include\libavutil\common.h(162): warning C4244: 'return': conversion from 'int' to 'uint8_t', possible loss of data
+c:\users\mlenka\downloads\ffmpeg\dev\include\libavutil\common.h(173): warning C4244: 'return': conversion from 'int' to 'int8_t', possible loss of data
+c:\users\mlenka\downloads\ffmpeg\dev\include\libavutil\common.h(184): warning C4244: 'return': conversion from 'int' to 'uint16_t', possible loss of data
+c:\users\mlenka\downloads\ffmpeg\dev\include\libavutil\common.h(195): warning C4244: 'return': conversion from 'int' to 'int16_t', possible loss of data
+c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(71): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 9 has type 'const uint64_t'
+  c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(71): note: consider using '%lld' in the format string
+  c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(71): note: consider using '%I64d' in the format string
+c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(38): warning C4100: 'cached': unreferenced formal parameter
+c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(98): warning C4459: declaration of 'fmt_ctx' hides global declaration
+  c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(26): note: see declaration of 'fmt_ctx'
+c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(185): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(140): warning C4101: 'filesize': unreferenced local variable
+c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(144): warning C4189: 'dwError': local variable is initialized but not referenced
+c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(191): warning C4459: declaration of 'src_filename' hides global declaration
+  c:\users\mlenka\documents\visual studio 2015\projects\motionvector\motionvector\motionvector.cpp(29): note: see declaration of 'src_filename'
+  MotionVector.vcxproj -> C:\Users\mlenka\Documents\Visual Studio 2015\Projects\MotionVector\Debug\MotionVector.exe
+  MotionVector.vcxproj -> C:\Users\mlenka\Documents\Visual Studio 2015\Projects\MotionVector\Debug\MotionVector.pdb (Full PDB)
